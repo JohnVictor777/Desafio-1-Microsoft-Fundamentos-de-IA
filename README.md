@@ -1,4 +1,4 @@
-# Microsoft Azure AI Fundamentals
+# Desafio 1 - Bootcamp Microsoft Fundamentos AI
 
 ## Trabalhando com Machine Learning no Azure ML
 
