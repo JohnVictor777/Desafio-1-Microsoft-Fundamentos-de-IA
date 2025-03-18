@@ -15,8 +15,6 @@ O projeto está organizado da seguinte forma:
       /
       ├── assets/ # Pasta para armazenar recursos visuais
       │ └── prints/ # Prints dos testes realizados
-      ├── inputs/ # Pasta para armazenar os dados de entrada
-      ├── outputs/ # Pasta para armazenar os resultados e modelos
       └── README.md # Documentação do projeto
 
 
